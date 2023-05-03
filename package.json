@@ -11,6 +11,7 @@
   "dependencies": {
     "@unlock-protocol/networks": "^0.0.13",
     "@unlock-protocol/paywall": "^0.4.0",
+    "@unlock-protocol/unlock-js": "^0.35.5",
     "connectkit": "^1.2.2",
     "ethers": "^5.7.0",
     "next": "^13.0.0",
